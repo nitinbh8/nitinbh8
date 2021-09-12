@@ -1,9 +1,12 @@
-- 👋 Hi, I’m Sai Nitin Bhadriraju
-- 👀 I’m interested in Data Analytics & Business Intelligence
-- 🌱 I’m currently learning Tableau
-- 📫 Reach me at Phone# 250 8993427 & by email @ nitin.bh8@gmail.com
+## 🚀 About Me
+Ambitious, career-focused job seeker, anxious to obtain an entry-level Data Analyst position to help launch career while achieving company goals.
 
-<!---
-nitinbh8/nitinbh8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🛠 Data Analysis Tools
+R, MS Excel, SPSS, MY SQL, Tableau
+
+## License
+
+[SAS](https://www.certmetrics.com/SAS/public/verification.aspx) Verification Number: RJHZ4LE12J4EQZC1 
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-nitin-bhadriraju-3a630a7a)
